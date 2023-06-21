@@ -1,0 +1,8 @@
+numpy 
+pandas 
+seaborn
+matplotlib
+scikitlearn
+pickel
+XGBoost
+warnings
